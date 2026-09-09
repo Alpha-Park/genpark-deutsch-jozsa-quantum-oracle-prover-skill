@@ -1,0 +1,13 @@
+{
+  "name": "genpark-deutsch-jozsa-quantum-oracle-prover-skill",
+  "version": "1.0.0",
+  "description": "Deterministic Deutsch-Jozsa quantum algorithm solver distinguishing constant vs balanced Boolean black-box functions in an exact single query with 0-pip Python.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "deutsch-jozsa",
+    "quantum-oracle",
+    "quantum-speedup",
+    "boolean-functions"
+  ]
+}
